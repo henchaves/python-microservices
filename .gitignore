@@ -92,3 +92,7 @@ typings/
 
 #VSCode files
 .vscode/
+
+#others
+.dbdata/
+*.pyc
